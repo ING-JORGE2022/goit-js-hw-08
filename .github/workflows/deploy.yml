@@ -19,4 +19,4 @@ jobs:
           branch: gh-pages
           folder: dist
 
-          # prueba 1
+          # prueba 1.0
